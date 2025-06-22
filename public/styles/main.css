@@ -1,6 +1,7 @@
 :root {
-  --card-height: 65vh;
-  --card-width: calc(var(--card-height) / 1.5);
+--card-height: min(65vh, 400px);
+--card-width: calc(var(--card-height) / 1.5);
+
 }
 
 body {
@@ -115,3 +116,34 @@ a {
   font-size: 24px;
   font-family: "Ariel", cursive;
 }
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 0 1rem;
+  }
+
+  .card {
+    font-size: 1.1rem;
+    width: 90vw;
+    height: auto;
+    padding: 1rem;
+    background-size: contain;
+    flex-direction: column;
+  }
+
+  .card::before,
+  .card::after {
+    display: none;
+  }
+
+  .user {
+    font-size: 1rem;
+    padding: 0 1rem;
+    text-align: center;
+  }
+.card p {
+  word-wrap: break-word;
+  padding: 0 1rem;
+}
+
