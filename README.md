@@ -1,5 +1,5 @@
 # Programming-Quotes
-A visually engaging web application that displays random motivational programming quotes each time the page is loaded.
+A visually **engaging web application** that displays random motivational programming quotes each time the page is loaded.
 
 # Features:
 🎨 Beautiful Quote card with Animated glowing borders.
