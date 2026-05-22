@@ -10,7 +10,7 @@ A visually **engaging web application** that displays **random motivational prog
 
 ⚡ Fast server response via Express.js.
 
- ## Technical Overview (Behind the Scenes):
+ ## Technical Overview: (Behind the Scenes)
 
 Frontend:
 
