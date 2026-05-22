@@ -1,7 +1,7 @@
 # Programming-Quotes
 A visually **engaging web application** that displays **random motivational programming quotes** each time the page is loaded.
 
-# Features:
+## Features:
 🎨 Beautiful Quote card with Animated glowing borders.
 
 🔁 Randomized Motivational Quotes on each page load.
@@ -10,7 +10,7 @@ A visually **engaging web application** that displays **random motivational prog
 
 ⚡ Fast server response via Express.js.
 
- # Technical Overview (Behind the Scenes):
+ ## Technical Overview (Behind the Scenes):
 
 Frontend:
 
@@ -27,5 +27,15 @@ Node.js & Express server setup.
 Quote logic using a local array of quotes (API fallback available).
 
 
-# Link:
+## Preview:
 https://programming-quotes-app.onrender.com/
+
+## Contact:
+If you'd like to see more of my work, connect with me through my portfolio:
+
+Developer: Fatimah Ali
+Website: https://fatimahdigitaledge.com
+GitHub: https://github.com/Fati-810
+
+## License:
+This project is for educational and portfolio purposes.
