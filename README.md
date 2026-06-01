@@ -12,7 +12,7 @@ A visually **engaging web application** that displays **random motivational prog
 
  ## Technical Overview: (Behind the Scenes)
 
-Frontend:
+**Frontend:**
 
 EJS Templating for rendering Dynamic content.
 
@@ -20,7 +20,7 @@ Custom CSS for Animation and Styling with Gradient effects and Hover transitions
 
 Responsive design using Flexbox and CSS variables.
 
-Backend:
+**Backend:**
 
 Node.js & Express server setup.
 
